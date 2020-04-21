@@ -1,0 +1,23 @@
+.text-heading {
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    color: red;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+.tictac-rows {
+    border-bottom: 5px solid red;
+}
+
+.tictac-cols {
+    border-right: 5px solid red;
+}
